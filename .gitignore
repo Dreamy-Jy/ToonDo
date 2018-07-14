@@ -1,14 +1,16 @@
-### Visual Studio ###
+### Visual Studio
 .vscode/
 
-### Django ###
+### Django
 *.log
 *.pot
 *.pyc
 
 local_settings.py
 .env
-db.sqlite3
 
 __pycache__/
 migrations/
+
+## Django_database
+db.sqlite3

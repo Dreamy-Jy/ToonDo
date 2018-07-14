@@ -26,7 +26,7 @@ For all given instructions it's assumed that your some from of linux like termin
 
 2. Activate the virtual environment and install dependencies:
 
-cd into your virtual enironment and run:
+cd into your virtual environment and run:
 
 `. Scripts/activate`
 
